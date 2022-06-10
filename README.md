@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tran Dang Khoi</h1>
 <h3 align="center">I'm still currently studying at Aptech college and i'm a passionate frontend developer from Vietnam</h3>
+<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76112fb8821115505929997e5d4003e9f9b4d9859ae2&rid=giphy.gif&ct=g" alt"Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trandangkhoi&label=Profile%20views&color=0e75b6&style=flat" alt="trandangkhoi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trandangkhoi" alt="trandangkhoi" /></a> </p>
 
 - 🔭 I’m currently studying at Aptech college [Froggy Gaming](https://baby-frog.github.io/froggy-gaming/)
 
@@ -17,10 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/toilatofuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="toilatofuz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17014478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17014478" height="30" width="40" /></a>
-<a href="https://fb.com/trần đăng khôi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trần đăng khôi" height="30" width="40" /></a>
+<a href="https://fb.com/tofuzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tofuzz" height="30" width="40" /></a>
 <a href="https://instagram.com/dautheproducer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dautheproducer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/khoi sida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="khoi sida" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucp-q9ty_eeicjbeoceowb2g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucp-q9ty_eeicjbeoceowb2g" height="30" width="40" /></a>
 <a href="https://discord.gg/nah nah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nah nah" height="30" width="40" /></a>
 </p>
 
