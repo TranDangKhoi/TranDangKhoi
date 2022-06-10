@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trandangkhoi&label=Profile%20views&color=0e75b6&style=flat" alt="trandangkhoi" /> </p>
 
-- 🔭 I’m currently studying at Aptech college [Froggy Gaming](https://baby-frog.github.io/froggy-gaming/)
+- 🔭 I’m currently studying at Aptech college
 
 - 🌱 I’m currently learning **React, Redux, Javascript, SASS, Gulp and Pug and some other program languages too**
 
