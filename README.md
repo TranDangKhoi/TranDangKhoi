@@ -2,7 +2,7 @@
 <h3 align="center">I'm still currently studying at Aptech college and i'm a passionate frontend developer from Vietnam</h3>
 <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76112fb8821115505929997e5d4003e9f9b4d9859ae2&rid=giphy.gif&ct=g" alt"Coding">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trandangkhoi&label=Profile%20views&color=935dd5&style=flat-square" alt="trandangkhoi" height="auto" width="200" style="border-radius:50%"/> </p>
+
 
 - 🔭 I’m currently studying at Aptech college
 
@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trandangkhoi&show_icons=true&hide_border=true&locale=en" alt="trandangkhoi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trandangkhoi&theme=dark" alt="trandangkhoi" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trandangkhoi&label=Profile%20views&color=935dd5&style=flat-square" alt="trandangkhoi" height="auto" width="200" style="border-radius:50%"/> </p>
