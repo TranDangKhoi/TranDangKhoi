@@ -30,5 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trandangkhoi&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="trandangkhoi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trandangkhoi&show_icons=true&hide_border=true&locale=en&theme=dark" alt="trandangkhoi" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trandangkhoi&theme=dark" alt="trandangkhoi" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trandangkhoi" alt="trandangkhoi" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trandangkhoi&label=Profile%20views&color=935dd5&style=flat-square&theme=dark" alt="trandangkhoi" height="auto" width="200" style="border-radius:50%"/> </p>
