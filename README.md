@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently studying at Aptech college
 
-- 🌱 I’m currently learning **React, Redux, Javascript, SASS, Gulp and Pug and some other program languages too**
+- 🌱 Right now, i'm learning **React, Redux, Javascript, SASS, Gulp and Pug and some other program languages too**
 
-- 🤝 I’m looking for help with **React and Javascript**
+- 🤝 I’m looking for help with **React Portal and Firebase**
 
 - 💬 Ask me about **SASS, Javascript**
 
