@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tran Dang Khoi</h1>
 <h3 align="center">I'm still currently studying at Aptech college and i'm a passionate frontend developer from Vietnam</h3>
-![programming](https://user-images.githubusercontent.com/88824627/178315808-5f40b1c3-7014-4986-b667-c9dce03f95a5.gif)
+[programming](https://user-images.githubusercontent.com/88824627/178315808-5f40b1c3-7014-4986-b667-c9dce03f95a5.gif)
 
 
 
