@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Dang Khoi</h1>
-<h3 align="center">A Front-End Developer</h3>
+<h3 align="center">A Passionate Front-End Developer</h3>
 <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76112fb8821115505929997e5d4003e9f9b4d9859ae2&rid=giphy.gif&ct=g" alt"Coding">
 
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently studying at Aptech college
 
-- 🌱 Right now, i'm learning **React, Redux, Javascript, SASS, Gulp and Pug and some other program languages too**
+- 🌱 Right now, i'm learning **ReactJS, Redux and Javascript**
 
 - 🤝 I’m looking for help with **React Portal and Firebase**
 
-- 💬 Ask me about **SASS, Javascript**
+- 💬 Ask me about **SASS and Javascript**
 
 - 📫 How to reach me **baits16@gmail.com**
 
