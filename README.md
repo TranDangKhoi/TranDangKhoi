@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Dang Khoi</h1>
-<h3 align="center">I'm currently still studying at Aptech college and i'm a passionate frontend developer from Vietnam</h3>
+<h3 align="center">A Front-End Developer</h3>
 <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76112fb8821115505929997e5d4003e9f9b4d9859ae2&rid=giphy.gif&ct=g" alt"Coding">
 
 
