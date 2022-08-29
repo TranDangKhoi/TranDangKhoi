@@ -6,12 +6,13 @@
 
 
 
+- 💜 I'm working on [Froggy Gaming](https://github.com/Baby-Frog/froggy-gaming-web/tree/main/froggy-gaming) 
 
 - 🔭 I’m currently studying at Aptech college
 
 - 🌱 Right now, i'm learning **ReactJS, Redux and Javascript**
 
-- 🤝 I’m looking for help with **React Portal and Firebase**
+- 🤝 I’m looking for help with **Authentication and Firebase**
 
 - 💬 Ask me about **SASS and Javascript**
 
