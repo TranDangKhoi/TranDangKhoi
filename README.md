@@ -8,9 +8,9 @@
 
 - 💜 I'm working on [Froggy Gaming](https://github.com/Baby-Frog/froggy-gaming-web/tree/main/froggy-gaming) 
 
-- 🔭 I’m currently studying at Aptech college
+- 🔭 I’m currently studying at one of FPT's college
 
-- 🌱 Right now, i'm learning **ReactJS, Redux and Javascript**
+- 🌱 Right now, i'm learning **ReactJS, Redux and some other random stuffs**
 
 - 🤝 I’m looking for help with **NodeJS and Firebase**
 
