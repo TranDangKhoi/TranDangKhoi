@@ -6,7 +6,7 @@
 
 
 
-- 💜 I'm working on [Froggy Gaming](https://github.com/Baby-Frog/froggy-gaming-web/tree/main/froggy-gaming) 
+- 💜 I'm working on [ReactJS Studying](https://github.com/TranDangKhoi/ReactJS-Studying) and [Javascript Studying](https://github.com/TranDangKhoi/javascript-learning-2)
 
 - 🔭 I’m currently studying at one of FPT's colleges
 
