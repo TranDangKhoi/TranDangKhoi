@@ -6,7 +6,7 @@
 
 
 
-- 💜 I'm mainly working on [Unicorn Blog](https://github.com/TranDangKhoi/unicorn-blog). However at the same time, i still updated these repositories regularly [ReactJS Studying](https://github.com/TranDangKhoi/ReactJS-Studying) and [Javascript Studying](https://github.com/TranDangKhoi/javascript-learning-2)
+- 💜 I'm mainly working on [Unicorn Blog](https://github.com/TranDangKhoi/unicorn-blog). However at the same time, i still updated these [ReactJS Studying](https://github.com/TranDangKhoi/ReactJS-Studying) and [Javascript Studying](https://github.com/TranDangKhoi/javascript-learning-2)
 
 - 🔭 I’m currently studying at one of FPT's colleges
 
