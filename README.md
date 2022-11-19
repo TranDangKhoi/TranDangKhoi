@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Firebase**
 
-- 💬 Ask me about **Sass and Javascript**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **baits16@gmail.com**
 
