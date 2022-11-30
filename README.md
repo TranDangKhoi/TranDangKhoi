@@ -12,7 +12,7 @@
 
 - 🌱 Right now, i'm learning **ReactJS, Redux and some other random stuffs**
 
-- 🤝 I’m looking for help with **Firebase**
+- 🤝 I’m looking for help with **Typescript**
 
 - 💬 Ask me about **Javascript**
 
