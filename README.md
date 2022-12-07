@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studying at one of FPT's colleges
 
-- 🌱 Right now, i'm learning **ReactJS, Redux and some other random stuffs**
+- 🌱 Right now, i'm learning **Redux and Typescript**
 
 - 🤝 I’m looking for help with **Typescript**
 
