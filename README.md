@@ -6,7 +6,7 @@
 
 
 
-- 💜 I'm mainly working on [Typescript Studying](https://github.com/TranDangKhoi/react-typescript-learning)
+- 💜 I'm mainly working on [Simple Crowfunding App]([https://github.com/TranDangKhoi/react-typescript-learning](https://github.com/TranDangKhoi/simple-crowfunding-app))
 
 - 🔭 I’m currently studying at one of FPT's colleges
 
