@@ -2,11 +2,6 @@
 <h3 align="center">A Passionate Front-End Developer</h3>
 <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76112fb8821115505929997e5d4003e9f9b4d9859ae2&rid=giphy.gif&ct=g" alt"Coding">
 
-
-
-
-
-
 - 💜 I'm mainly working on [Simple Crowfunding App](https://github.com/TranDangKhoi/simple-crowfunding-app)
 
 - 🔭 I’m currently studying at one of FPT's colleges
@@ -31,7 +26,7 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <br clear="both">
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -58,8 +53,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=TranDangKhoi" height="150" alt="languages graph"  />
 </div>
 
-
-
 <img src="https://raw.githubusercontent.com/TranDangKhoi/TranDangKhoi/blob/output/snake.svg" alt="Snake animation" />
-
-
