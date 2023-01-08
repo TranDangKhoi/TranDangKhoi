@@ -30,8 +30,6 @@
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <br clear="both">
