@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tran Dang Khoi</h1>
-<h3 align="center">A Passionate Front-End Developer</h3>
+<h1 align="left">Hi 👋, I'm Tran Dang Khoi</h1>
+<h4 align="left">A Passionate Front-End Developer</h4>
 
 - I love going out 🎣, sports 💪 and gaming 🎮 (I have tons of games in Steam library)
 
