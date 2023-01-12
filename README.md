@@ -2,6 +2,8 @@
 <h3 align="center">A Passionate Front-End Developer</h3>
 <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76112fb8821115505929997e5d4003e9f9b4d9859ae2&rid=giphy.gif&ct=g" alt"Coding">
 
+- I love nature 🎣🌲, sports 💪, and gaming 🎮 (I have tons of games in Steam library)
+
 - 💜 I'm mainly working on [Simple Crowfunding App](https://github.com/TranDangKhoi/simple-crowfunding-app)
 
 - 🔭 I’m currently studying at one of FPT's colleges
@@ -9,8 +11,6 @@
 - 🌱 Right now, i'm learning **Redux and Typescript**
 
 - 🤝 I’m looking for help with **Typescript**
-
-- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **khoitofu1106@gmail.com**
 
