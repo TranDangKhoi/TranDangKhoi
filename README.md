@@ -2,15 +2,10 @@
 <h4 align="left">A Passionate Front-End Developer</h4>
 
 - I love going out 🎣, sports 💪 and gaming 🎮 (I have tons of games in Steam library)
-
 - 💜 I'm mainly working on [Simple Crowfunding App](https://github.com/TranDangKhoi/simple-crowfunding-app)
-
 - 🔭 I’m currently studying at one of FPT's colleges
-
 - 🌱 Right now, i'm learning **Redux and Typescript**
-
 - 🤝 I’m looking for help with **Typescript**
-
 - 📫 How to reach me **khoitofu1106@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
