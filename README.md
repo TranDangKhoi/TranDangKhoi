@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Tran Dang Khoi</h1>
 <h4 align="left">A Passionate Front-End Developer</h4>
 
-😍 I love going out 🎣, sports 💪 and gaming 🎮 (I have tons of games in Steam library)
+😍 I love going out 🎣, sports 💪 and gaming 🎮 (I have tons of games in Steam library as well as Epic Games)
 
 💜 I'm mainly working on [Simple Crowfunding App](https://github.com/TranDangKhoi/simple-crowfunding-app)
 
