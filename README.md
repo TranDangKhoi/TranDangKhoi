@@ -3,13 +3,9 @@
 
 😍 I love going out 🎣, sports 💪 and gaming 🎮 (I have tons of games in Steam library as well as Epic Games)
 
-💜 I'm chillin' right now
+💜 I'm just chillin' right now with Typescript and React Query
 
 🔭 I’m currently studying at one of FPT's colleges
-
-🌱 Right now, i'm learning **Redux and Typescript**
-
-🤝 I’m looking for help with **Typescript**
 
 📫 How to reach me **khoitofu1106@gmail.com**
 
