@@ -3,7 +3,7 @@
 
 😍 I love going out 🎣, sports 💪 and gaming 🎮 (I have tons of games in Steam library as well as Epic Games)
 
-💜 I'm mainly working on my pet project [Simple Crowdfunding App](https://github.com/TranDangKhoi/simple-crowfunding-app)
+💜 I'm chillin' right now
 
 🔭 I’m currently studying at one of FPT's colleges
 
