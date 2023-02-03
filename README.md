@@ -3,7 +3,7 @@
 
 😍 I love hanging out 🎣, sports 💪 and gaming 🎮 (I have tons of games in Steam library as well as Epic Games)
 
-💜 I'm in love with Typescript
+👉💍 I'm married with Typescript
 
 🔭 I’m currently studying at one of FPT's colleges
 
