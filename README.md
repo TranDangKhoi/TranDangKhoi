@@ -7,7 +7,7 @@
 
 🔭 I’m currently studying at one of FPT's colleges
 
-📫 How to reach me **khoitofu1106@gmail.com**
+📫 How to reach me: **khoitofu1106@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
