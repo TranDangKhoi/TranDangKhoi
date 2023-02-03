@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://codepen.io/toilatofuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="toilatofuz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17014478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17014478" height="30" width="40" /></a>
-<a href="https://fb.com/tofuzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tofuzz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCp-q9TY_EeIcjbeoceOWB2g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucp-q9ty_eeicjbeoceowb2g" height="30" width="40" /></a>
 <a href="https://discord.gg/nah nah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nah nah" height="30" width="40" /></a>
 </p>
