@@ -3,7 +3,7 @@
 
 😍 I love hanging out 🎣, sports 💪 and gaming 🎮 (I have tons of games in Steam library as well as Epic Games)
 
-💜 I'm just diving in Typescript and React Query
+💜 I'm diving in Typescript and React Query in order to make one more small project
 
 🔭 I’m currently studying at one of FPT's colleges
 
