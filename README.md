@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Tran Dang Khoi</h1>
 <h4 align="left">A Passionate Front-End Developer</h4>
 
-😍 I love going out 🎣, sports 💪 and gaming 🎮 (I have tons of games in Steam library as well as Epic Games)
+😍 I love hanging out 🎣, sports 💪 and gaming 🎮 (I have tons of games in Steam library as well as Epic Games)
 
-💜 I'm just chillin' right now with Typescript and React Query
+💜 I'm just diving in Typescript and React Query
 
 🔭 I’m currently studying at one of FPT's colleges
 
