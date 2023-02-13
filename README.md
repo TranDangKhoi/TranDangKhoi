@@ -35,6 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" width="44" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="32" width="44" alt="microsoftsqlserver logo"  />
 </div>
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&username=TranDanGKhoi" height="150" alt="stats graph" />
