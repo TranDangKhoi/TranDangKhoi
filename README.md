@@ -7,7 +7,7 @@
 
 🔭 I’m currently studying at one of FPT's colleges, trying my best to get a bachelor's degree
 
-📫 How to reach me: **khoitofu1106@gmail.com**
+📫 How to reach me: **trandangkhoi803@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <br clear="both">
