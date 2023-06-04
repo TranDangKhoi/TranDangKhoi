@@ -4,7 +4,7 @@
 
 💍 I'm married with Typescript
 
-🔭 I’m currently studying at one of FPT's colleges, trying my best to get a bachelor's degree
+🔭 I’m currently studying at one of FPT colleges, trying my best to get a bachelor's degree
 
 📫 How to reach me: **trandangkhoi803@gmail.com**
 
