@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Tran Dang Khoi</h1>
 
-😍 Besides coding, I love hanging out 🎣, sports 💪 and gaming 🎮 (I have tons of games in Steam library as well as Epic Games)
+😍 Besides coding, I love hanging out 🎣, sports 💪 and gaming 🎮
 
 💍 I'm married with Typescript
 
