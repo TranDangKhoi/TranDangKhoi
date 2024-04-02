@@ -4,7 +4,7 @@
 
 💍 I'm married with Typescript
 
-🔭 I’m currently solving LeetCode problems and delve into other things besides tech
+🔭 I’m currently solving LeetCode problems and delve into other things besides immersing myself in tech
 
 📫 How to reach me: **trandangkhoi803@gmail.com**
 
