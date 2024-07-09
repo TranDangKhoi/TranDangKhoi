@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Tran Dang Khoi</h1>
 
-😍 Besides coding, I love hanging out 🎣, editting videos 📽 and gaming 🎮
+👉 Besides coding, I love hanging out 🎣, editting videos 📽 and gaming 🎮
 
 💍 I'm married with Typescript
 
