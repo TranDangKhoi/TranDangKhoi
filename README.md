@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Tran Dang Khoi</h1>
+<h1 align="left">Aight, listen up. Name’s John. Don’t forget it, aight?</h1>
 
 👉 Besides coding, I love hanging out 🎣, editting videos 📽 and gaming 🎮
 
