@@ -1,6 +1,6 @@
 <h1 align="left">Listen up 👂 name’s Khoi. Don’t forget it, aight?</h1>
 
-👉 Besides coding, I love hanging out 🎣, editting videos 📽 and gaming 🎮
+👉 Besides coding, I like hanging out 🎣, editting videos 📽 and gaming 🎮
 
 💍 I'm married with Typescript
 
