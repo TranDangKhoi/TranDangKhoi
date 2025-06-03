@@ -1,10 +1,6 @@
 <h1 align="left">Listen up 👂 name’s Khoi. Don’t forget it, aight?</h1>
 
-👉 Besides coding, I like hanging out 🎣, editting videos 📽 and gaming 🎮
-
 💍 I'm married with Typescript
-
-🔭 I’m currently solving LeetCode problems and delve into other things instead of just immersing myself in tech
 
 📫 How to reach me: **trandangkhoi803@gmail.com**
 
