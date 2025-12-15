@@ -2,8 +2,6 @@
 
 💍 I'm married with Typescript
 
-📫 How to reach me: **trandangkhoi803@gmail.com**
-
 <h3 align="left">Languages and Tools:</h3>
 <br clear="both">
 <div align="left">
