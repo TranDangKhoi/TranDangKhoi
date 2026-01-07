@@ -36,9 +36,3 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="52" height="40"/>
   
 </div>
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=nord&hide_border=true&username=TranDangKhoi" height="150" alt="languages graph"  />
-</div>
