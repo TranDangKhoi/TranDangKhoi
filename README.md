@@ -4,7 +4,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <br clear="both">
-<p align="left">
+<p align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="44" height="32" style="display:inline-block;" alt="vscode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="44" height="32" style="display:inline-block;" alt="visualstudio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" height="32" style="display:inline-block;" alt="html5" />
