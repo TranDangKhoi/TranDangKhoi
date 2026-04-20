@@ -4,7 +4,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <br clear="both">
-<p align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
+
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,4 +34,4 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/sql_server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-</p>
+
