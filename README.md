@@ -15,7 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="32" style="display:inline-block;" alt="react" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="44" height="32" style="display:inline-block;" alt="nextjs" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="44" height="32" style="display:inline-block;" alt="webpack" />
-  <img src="https://vitejs.dev/logo.svg" width="44" height="32" style="display:inline-block;" alt="vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="44" height="32" style="display:inline-block;" alt="vite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="44" height="32" style="display:inline-block;" alt="sass" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="44" height="32" style="display:inline-block;" alt="tailwind" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="44" height="32" style="display:inline-block;" alt="jest" />
